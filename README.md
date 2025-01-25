@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malikehack
+- 👋 Hi, I’m iqra
 - 👀 I’m interested by Cybersecurity
 - 🌱 I’m currently learning cybersecurity
 - 📫 How to reach me ...
